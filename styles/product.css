@@ -33,7 +33,7 @@
 .product__category {
     text-transform: uppercase;
     font-weight: 500;
-    letter-spacing: 3px;
+    letter-spacing: 5px;
     color: var(--dark-grayish-blue);
     font-size: 0.9rem;
 }
